@@ -1,0 +1,58 @@
+[
+  {
+    "frame": 2688,
+    "service": "0x27f0",
+    "characteristic": "0x27f1",
+    "direction": "out",
+    "hex": "0201"
+  },
+  {
+    "frame": 2694,
+    "service": "0x27f0",
+    "characteristic": "0x27f1",
+    "direction": "out",
+    "hex": "0209"
+  },
+  {
+    "frame": 2974,
+    "service": "0x27f0",
+    "characteristic": "0x27f7",
+    "direction": "in",
+    "hex": "03010000000000000000000000000000"
+  },
+  {
+    "frame": 3153,
+    "service": "0x27f0",
+    "characteristic": "0x27f2",
+    "direction": "in",
+    "hex": "08ee00"
+  },
+  {
+    "frame": 3263,
+    "service": "0x27f0",
+    "characteristic": "0x27f7",
+    "direction": "in",
+    "hex": "33daaddaad010c0015000700007bb6"
+  },
+  {
+    "frame": 3344,
+    "service": "0x27f0",
+    "characteristic": "0x27f6",
+    "direction": "out",
+    "hex": "33daaddaad010c0019000d000091fa"
+  },
+  {
+    "frame": 3346,
+    "service": "0x27f0",
+    "characteristic": "0x27f7",
+    "direction": "in",
+    "hex": "33daaddaad010c0019000d000091fa"
+  },
+  {
+    "frame": 3000,
+    "service": "0x27f0",
+    "characteristic": "0x27f7",
+    "direction": "in",
+    "hex": "0211010101010103312e312e3135000000000000"
+  }
+]

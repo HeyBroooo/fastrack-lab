@@ -1,0 +1,15 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.env*
+!.env.example
+report/
+*.cfa
+*.pcap
+*.pcapng
+*btsnoop*
+*.apk
+*bugreport*.zip
+apk/
+__pycache__/
+analysis/

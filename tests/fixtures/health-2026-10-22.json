@@ -1,0 +1,282 @@
+{
+  "device": "FT_38112_9539",
+  "captured_at": "2026-10-22T20:41:42.485206",
+  "records": [
+    {
+      "timestamp": "2026-10-22T20:41:04.912475",
+      "request": "initialize",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 01 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:06.395403",
+      "request": "health group 07",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 07 01 0d ea 07 0a 16 9e 04 00 0c 00 04 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:06.485003",
+      "request": "health group 07",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 07 02 0f 00 00 00 00 00 00 00 00 00 00 09 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:06.620250",
+      "request": "health group 07",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 07 03 10 00 57 05 5e 05 59 05 5e 05 56 06 57 05 60 01 63"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:06.710223",
+      "request": "health group 07",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 07 04 08 0e 5b 05 5c 01 5f 04 5b 05 56 06 57 05 60 01 63"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:06.800183",
+      "request": "health group 07",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 ee 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:11.376428",
+      "request": "finish group 07",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 07 02"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:12.169962",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 01 0c ea 07 0a 16 00 00 0f 53 1e 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:12.274882",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 02 12 2a 00 00 00 01 00 00 00 1e 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:12.365025",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 03 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:12.486415",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 04 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:12.605050",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 05 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:12.725954",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 06 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:12.845287",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 07 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:12.965092",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 08 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:13.100238",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 09 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:13.218863",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 0a 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:13.341068",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 0b 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:13.459895",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 0c 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:13.580163",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 0d 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:13.700527",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 0e 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:13.820176",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 0f 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:13.940140",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 10 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:14.081032",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 11 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:14.195458",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 12 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:14.315208",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 13 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:14.435125",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 14 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:14.555158",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 15 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:14.674951",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 16 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:14.795175",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 17 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:14.915319",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 18 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:15.035795",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 19 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:15.155441",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 1a 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:15.275109",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 1b 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:15.426152",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 1c 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:15.545352",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 1d 0f 00 00 00 00 00 34 00 00 90 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:15.663727",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 1e 0a 74 00 04 50 01 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:15.770195",
+      "request": "activity group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 ee 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:21.185768",
+      "request": "finish group 03",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 03 02"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:22.174864",
+      "request": "health group 04",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 ee 00"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:26.000220",
+      "request": "finish group 04",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 04 02"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:26.795383",
+      "request": "SpO2 history mode 1",
+      "characteristic": "000027f7-0000-1000-8000-00805f9b34fb",
+      "hex": "33 da ad da ad 01 2c 00 04 00 01 00 00 01 01 de 1e 01 00 0d 00 06 00 00 00 00 ea 07 0a 16 de 70 da 6a 01 06 00 00 00 de 70 da 6a 62 51 d1 35"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:29.810309",
+      "request": "SpO2 history mode 0",
+      "characteristic": "000027f7-0000-1000-8000-00805f9b34fb",
+      "hex": "33 da ad da ad 01 19 00 04 00 02 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 e7 7c"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:32.795447",
+      "request": "stress history mode 1",
+      "characteristic": "000027f7-0000-1000-8000-00805f9b34fb",
+      "hex": "33 da ad da ad 01 19 00 04 00 03 00 00 10 01 00 00 00 00 0d 00 00 00 00 00 00 6b 6e"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:35.795174",
+      "request": "stress history mode 0",
+      "characteristic": "000027f7-0000-1000-8000-00805f9b34fb",
+      "hex": "33 da ad da ad 01 19 00 04 00 04 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 8b ef"
+    },
+    {
+      "timestamp": "2026-10-22T20:41:38.825128",
+      "request": "finish sync",
+      "characteristic": "000027f2-0000-1000-8000-00805f9b34fb",
+      "hex": "08 02 00"
+    }
+  ]
+}

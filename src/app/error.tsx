@@ -1,0 +1,2 @@
+'use client';
+export default function ErrorPage({reset}:{reset:()=>void}){return <main className="shell"><section className="hero"><div><p className="eyebrow">FASTRACK LAB</p><h1>The dashboard encountered an error.</h1><p className="intro">Reconnect the watch after restarting the dashboard. No automatic retry or vendor command will be sent.</p><button className="primary" onClick={reset}>Restart dashboard</button></div></section></main>;}
